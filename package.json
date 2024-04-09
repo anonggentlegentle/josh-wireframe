@@ -1,0 +1,15 @@
+{
+  "name": "josh-wireframe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass style/style.scss style/style.css --watch"
+  },
+  "author": "Jaren",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.74.1"
+  }
+}
